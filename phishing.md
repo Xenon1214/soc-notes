@@ -29,3 +29,5 @@ User awareness training
 Email filtering rules
 Blocking domains/IPs
 MFA reduces impact of credential theft
+
+Tes on phishing
