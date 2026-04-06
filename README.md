@@ -5,4 +5,3 @@ SOC Notes 2.0
 Something new
 123
 Zdarova
-123
